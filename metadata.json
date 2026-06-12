@@ -1,0 +1,6 @@
+{
+  "name": "AniManxwa",
+  "description": "Manga, Manhwa, Manhua, and Novella reading application in Uzbek. Includes user profile customization, favorites saving, full search, reader interface, and administrative manga/chapter management panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
